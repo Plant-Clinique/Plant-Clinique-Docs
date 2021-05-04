@@ -1,5 +1,5 @@
 # Architecture
 
-![Archeticture](archeticture.png "archeticture"
+![Archeticture](archeticture.png "archeticture")
 
 [Next page](challenges.md)
