@@ -6,4 +6,4 @@ The diagram below visualizes our associations.
 
 ![Database Diagram](images/image2.png "image_tooltip")
 
-[Next page](architecture.md)
+[Next page](archeticture.md)
