@@ -1,9 +1,7 @@
 # Database Design 
 
-The diagram below visualizes our associations.
+The diagram below visualizes our associations:
 
-## Database Diagram
-
-![Database Diagram](images/image2.png "image_tooltip")
+![Database Diagram](associations.png "Associations")
 
 [Next page](archeticture.md)

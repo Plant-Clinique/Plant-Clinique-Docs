@@ -50,4 +50,4 @@ We had created_at and updated_at columns for all the models. To keep things DRY,
   - plant_type_id: integer 🌱
   - name: string
 
-  [Next page](databse_design.md)
+[Next page](databse_design.md)

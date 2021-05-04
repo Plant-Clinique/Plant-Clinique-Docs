@@ -10,20 +10,17 @@
 
 # Table of Contents 
 - Introduction
-- Product Purpose 
-- Our Users and their functionality options 
-- Functionality and Technology 
-- Why we did it this way 
-- Database Design
-- Table/Model
-- Database Diagram 
-- Architecture 
-- Challenges 
-- Design Choices 
-- Testing
-- Future Plans 
-- Process and Collaboration 	
-- Conclusion 
+- [Product Purpose](product_purpose.md) 
+- [Our Users and their functionality options](Users_and_functionality.md)
+- [Functionality and Technology](technology.md)
+- [Database DesiWWgn](databse_design.md)
+- [Table/Model](table_model.md)
+- [Architecture](archeticture.md)
+- [Challenges](challenges.md)
+- [Testing](testing.md)
+- [Future Plans](future_plans.md)
+- [Process and Collaboration](process_and_collaboration.md)
+- [Conclusion](conclusion.md)
 
 
 # Introduction

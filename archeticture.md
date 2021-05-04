@@ -1,5 +1,5 @@
 # Architecture
 
-![alt_text](images/image3.png "image_tooltip"
+![Archeticture](archeticture.png "archeticture"
 
 [Next page](challenges.md)
