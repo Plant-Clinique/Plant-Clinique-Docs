@@ -6,6 +6,8 @@
 
 [Link to Plant-Clinique Private GitHub](https://github.com/Plant-Clinique/Plant-Clinique/)
 
+[Link to Plant-Clinique API Repo](https://github.com/Plant-Clinique/Plant-Clinique-API/)
+
 [Link to Plant-Clinique Final Presentation](https://docs.google.com/presentation/d/1u_ZV_iwTwHEE5Gor9GjBLvlKQA9DYjXv88XHXtVZKQA/edit#slide=id.p)
 
 # Table of Contents 
