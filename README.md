@@ -15,7 +15,7 @@
 - [Product Purpose](product_purpose.md) 
 - [Our Users and their functionality options](Users_and_functionality.md)
 - [Functionality and Technology](technology.md)
-- [Database DesiWWgn](databse_design.md)
+- [Database Design](databse_design.md)
 - [Table/Model](table_model.md)
 - [Architecture](archeticture.md)
 - [Challenges](challenges.md)
