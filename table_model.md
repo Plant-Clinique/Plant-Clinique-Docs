@@ -15,20 +15,22 @@ We had created_at and updated_at columns for all the models. To keep things DRY,
   - remember_token: string
   - admin: boolean
 - <strong>UserPlant</strong>
-  - plant_id: integer 🌱
+  - user_plant_id: integer 🌱
   - <ins>user_id: integer</ins>
   - name: string
   - age: float
   - plant_type: string
-  - image_url: string
+  - img_url: string
   - description: string
 - <strong>Reminder</strong>
   - reminder_id: integer 🌱
   - <ins>user_plant_id: integer</ins>
   - <ins>user_id: integer</ins>
-  - tick_time: time
   - description: string
   - reminder_type: enum
+  - interval: integer
+  - tick_time: time
+  - email_time: datetime
 - <strong>ChatbotMessage</strong>
   - chatbot_message_id: integer 🌱
   - <ins>user_id: integer</ins>
@@ -41,6 +43,7 @@ We had created_at and updated_at columns for all the models. To keep things DRY,
   - topic: enum
   - title: string
   - body: string
+  - edited_at: datetime
 - <strong>Reply</strong>
   - reply_id: integer 🌱
   - <ins>user_id: integer</ins>
@@ -49,5 +52,17 @@ We had created_at and updated_at columns for all the models. To keep things DRY,
 - <strong>PlantType</strong>
   - plant_type_id: integer 🌱
   - name: string
-
+- <strong>Notification</strong>
+  - notification_id: integer 🌱 
+  - <ins>user_id: bigint</ins>
+  - <ins>actor_id: bigint</ins>
+  - notify_type: string
+  - target_type: string
+  - target_id: bigint
+  - second_target_type: string
+  - second_target_id: bigint
+  - third_target_type: string
+  - third_target_id: bigint
+  - read_at: datetime
+  
 [Next page](databse_design.md)
